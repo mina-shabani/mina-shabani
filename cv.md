@@ -9,24 +9,4 @@ comments: false
 ---
 
 
-# ekhteshash
-
-werwe
-rwe
-
-## Tehran
-lsdfksd
-
-### Azadi
-### Enghelab
-
-- mored 1
-- mored 2
-
-My favorite website is [yahoo](http://www.yahoo.com).
-
-
-## Esfahan
-ldkfjs
-
-![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg)
+# nothing till now
