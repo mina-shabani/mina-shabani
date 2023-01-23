@@ -5,7 +5,7 @@ title: final project
 # python رنگ بندی اولیه در 
 تمام ایده هایی که برای رنگ بندی تصویر داشتم رو توی پایتون امتحان کردم تا رنگ نهایی عکس رو به دست بیارم
 
-![alt text](../assets/images/msn.jpg)
+![alt text](../assets/images/3p.png)
 
 - عکس 3 
 
