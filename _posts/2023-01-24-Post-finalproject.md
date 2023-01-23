@@ -5,30 +5,30 @@ title: final project
 # python رنگ بندی اولیه در 
 تمام ایده هایی که برای رنگ بندی تصویر داشتم رو توی پایتون امتحان کردم تا رنگ نهایی عکس رو به دست بیارم
 
-![alt text](../assets/images/3p.jpg)
+![alt text](../assets/images/3p.png)
 
 - عکس 3 
 
-![alt text](../assets/images/21.jpg)
+![alt text](../assets/images/21.png)
 
 - عکس 18
 # c تولید عکس اولیه در 
  این مرحله سخت تر و جالب تر از مرحله قبل بود و باید رنگ هر کدوم از پیکسل ها رو خودمون مشخص میکردیم.علاوه بر 
  میزدیم و برای اولین بار  با اعداد مختلط کد میزدیم cاین خود کد مندلبرات رو هم باید به زبان 
 
-![alt text](../assets/images/3c.jpg)
+![alt text](../assets/images/3c.bmp)
 
 - عکس 3
 
-![alt text](../assets/images/6c.jpg)
+![alt text](../assets/images/6c.bmp)
 
 - عکس 6
 
-![alt text](../assets/images/10c.jpg)
+![alt text](../assets/images/10c.bmp)
 
 - عکس 15
 
-![alt text](../assets/images/16c.jpg)
+![alt text](../assets/images/16c.bmp)
 
 - عکس 26
 
